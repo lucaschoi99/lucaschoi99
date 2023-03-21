@@ -7,11 +7,11 @@ I love creating things, and I'm passionate about [Your Interests]. In my free ti
  -->
 ## 🔭 I’m currently working on
 
-**Blog Project**: **project-choi**
+**Blog Project**: **project-choi-blog**
 - Rest API
 - Spring Rest Docs
 
-**QA board Project**: **QA-board**
+**QA board Project**: **QA-Board**
 - CRUD
 - JPA ORM
 
