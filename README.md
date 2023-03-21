@@ -28,9 +28,8 @@ I love creating things, and I'm passionate about [Your Interests]. In my free ti
 
 ## 🤝🏻 Connect with me
 <p align="center">
-  <img src="https://img.shields.io/badge/lucaschoi-20c997.svg?style=flat-square&logo=Vimeo&logoColor=white">
-  <a href="mailto:ms.lucaschoi@gmail.com"></a>
-  <img src="https://img.shields.io/badge/ms.lucaschoi@gmail.com-D14836.svg?style=flat-square&logo=Gmail&logoColor=white">
+  <a href="https://velog.io/@lucaschoi"><img src="https://img.shields.io/badge/Velog.lucaschoi-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+  <a href="mailto:ms.lucaschoi@gmail.com"><img src="https://img.shields.io/badge/ms.lucaschoi@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 
