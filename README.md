@@ -12,7 +12,8 @@ I love creating things, and I'm passionate about [Your Interests]. In my free ti
 - Spring Rest Docs
 
 **QA board Project**: **QA-Board**
-- JPA ORM
+- JPA
+- Thymeleaf
 
 
 ## 🛠 Skills
