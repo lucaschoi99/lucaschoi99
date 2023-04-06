@@ -33,7 +33,8 @@ I love creating things, and I'm passionate about [Your Interests]. In my free ti
 </p>
 
 
+<!-- 
 ## 📈 GitHub Stats
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucaschoi99&show_icons=true&count_private=true&theme=radical&langs_count=3)
 
-
+-->
