@@ -5,15 +5,18 @@
 I love creating things, and I'm passionate about [Your Interests]. In my free time, you'll find me [Your Hobbies].
 
  -->
-## 🔭 I’m currently working on
+## 🔭 Works
 
-**Blog Project**: **project-choi-blog**
-- Rest API
+**[꾸준한 알고리즘 기록](https://github.com/lucaschoi99/CodingTest_study)**
+- 2020년 ~ 기록하기 시작한 알고리즘 풀이 기록입니다.
+- 2023년 ~ [개인 블로그](https://velog.io/@lucaschoi) 에 기록하고 있습니다.
+
+**[Blog Project](https://github.com/lucaschoi99/project-choi-blog)**
+- `API 개발 과정이 궁금해` 시작한 Rest API 블로그 프로젝트 입니다.
 - Spring Rest Docs
 
-**QA board Project**: **QA-Board**
-- JPA
-- Thymeleaf
+**[QA board Project](https://github.com/lucaschoi99/QA-Board)**
+- JPA, QueryDsl, Spring Security 를 이용한 게시판 프로젝트 입니다.
 
 
 ## 🛠 Skills
