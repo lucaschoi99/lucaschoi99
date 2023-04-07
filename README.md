@@ -8,8 +8,8 @@ I love creating things, and I'm passionate about [Your Interests]. In my free ti
 ## 🔭 Works
 
 **[꾸준한 알고리즘 기록](https://github.com/lucaschoi99/CodingTest_study)**
-- 2020년 ~ 기록하기 시작한 알고리즘 풀이 기록입니다.
-- 2023년 ~ [개인 블로그](https://velog.io/@lucaschoi) 에 기록하고 있습니다.
+- 2020 ~ 2022년 기록한 알고리즘 풀이 기록입니다.
+- 2023년 ~ 현재는 [개인 블로그](https://velog.io/@lucaschoi) 에 기록하고 있습니다.
 
 **[Blog Project](https://github.com/lucaschoi99/project-choi-blog)**
 - `API 개발 과정이 궁금해` 시작한 Rest API 블로그 프로젝트 입니다.
